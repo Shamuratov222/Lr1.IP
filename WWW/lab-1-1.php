@@ -1,3 +1,6 @@
+<html>
+<head><title>Shamuratov Damir</title></head>
+</html>
 <?php
 $var1= '3';
 $var2 = 5;
