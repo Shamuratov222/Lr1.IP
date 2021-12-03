@@ -6,11 +6,11 @@ const e= 2.71828;
 echo 'Chislo e ravno '.e. '<br>';
 $num_el=e;
 echo ('$num_el ='.$num_el.'='.gettype($num_el). '<br>');
-settype($num_el,"integer");
+$'num_el'=e;
 echo ('$num_el ='.$num_el.'='.gettype($num_el). '<br>');
-settype($num_el,"string");
+$num_el=double(e);
 echo ('$num_el ='.$num_el.'='.gettype($num_el). '<br>');
-settype($num_el,"boolean");
+$num_el=boolean(e);
 echo ('$num_el ='.$num_el.'='.gettype($num_el). '<br>');
 
 
