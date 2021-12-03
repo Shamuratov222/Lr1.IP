@@ -12,6 +12,7 @@
 <li><a href="/denwer/PHP-Shamuratov/WWW/lab-2-9.php">Самостоятельная работа 2.1</a></li>
 <li><a href="/denwer/PHP-Shamuratov/WWW/lab-2-5.php">Самостоятельная работа 2.2</a></li>
 <li><a href="/denwer/PHP-Shamuratov/WWW/lab-2-10.php">Самостоятельная работа 3</a></li>
+<li><a href="/denwer/PHP-Shamuratov/WWW/lab-2-11.php">Самостоятельная работа 4</a></li>
 </ul>
 <?php
 $d=date("d.m.Y H:i");
